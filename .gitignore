@@ -5,3 +5,4 @@ cypress/screenshots
 cypress workshop agenda
 package-lock.json
 cypress/.DS_Store
+cypress/videos
