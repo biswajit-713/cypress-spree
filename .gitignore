@@ -4,3 +4,4 @@ cypress/integration/examples/
 cypress/screenshots
 cypress workshop agenda
 package-lock.json
+cypress/.DS_Store
