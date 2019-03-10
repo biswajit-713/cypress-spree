@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://spreecommerce-demo.herokuapp.com",
+    "ignoreTestFiles": "/**/*.spec.js",
+    "defaultCommandTimeout": 5000,
+    "numTestsKeptInMemory": 5,
+    "pageLoadTimeout": 40000,
+    "watchForFileChanges": false
+}

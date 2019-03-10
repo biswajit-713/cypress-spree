@@ -1,0 +1,6 @@
+node_modules/
+cypress/fixtures/
+cypress/integration/examples/
+cypress/screenshots
+cypress workshop agenda
+package-lock.json
